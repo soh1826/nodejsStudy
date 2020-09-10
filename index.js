@@ -30,5 +30,5 @@ app.post('/register', (req, res)=> {
     })
 })
 
-app.listen(port, ()=>console.log('Example app listening on port ${port}!')) //port 5000번에서 실행
+app.listen(port, ()=>console.log('Example app listening on port ${port}!')) //port 5000번에서 실행.
 
